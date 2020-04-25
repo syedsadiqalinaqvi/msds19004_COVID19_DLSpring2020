@@ -16,3 +16,15 @@ Confusion Matrix:
 
 F1-Score: 85.75%
 
+# VGG16 – Fine tuning only the FC layer
+Test Data:
+Accuracy of the network on 1358 test images: %
+
+Confusion Matrix:
+
+[,  ],
+
+[, ]
+
+F1-Score: %
+
