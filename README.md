@@ -9,7 +9,9 @@ Test Data:
 Accuracy of the network on 1358 test images: 84.53%
 
 Confusion Matrix:
+
 [516,  39],
+
 [171, 632]
 
 F1-Score: 85.75%
