@@ -18,13 +18,13 @@ F1-Score: 85.75%
 
 # VGG16 – Fine tuning only the FC layer
 Test Data:
-Accuracy of the network on 1358 test images: %
+Accuracy of the network on 1358 test images: 58.39%
 
 Confusion Matrix:
 
-[,  ],
+[180,  375],
 
-[, ]
+[190, 613]
 
-F1-Score: %
+F1-Score: 68.45%
 
